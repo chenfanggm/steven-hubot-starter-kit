@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Chen Fang <chenfanggm@hotmail.com>",
-  "description": "Steven's virtual bot",
+  "description": "Steven's Virtual Bot",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
